@@ -71,24 +71,6 @@ html{
     transition: all 1.1s;
 }
 
-.Nico{
-    text-align: center;
-    margin: center;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    margin: 10px;
-    color: #ffffff;
-}
-
-.Nico img {
-    border-radius: 50%;
-    text-align: center;
-    margin: 10px;
-}
-
-.Nico :hover {
-    transform: scale(1.1);
-    transition: all 1.1s;
-}
 
 .ubicacion{
     text-align: center;
