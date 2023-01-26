@@ -14,13 +14,9 @@ html {
   font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
   color: rgb(0, 0, 0);
   padding: 30px;
-}
-
-.header {
   display: flex;
   flex-flow: wrap row;
 }
-
 .header ul li a:hover {
   color: gray;
 }
