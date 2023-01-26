@@ -51,7 +51,7 @@ html{
     background: black;
 }
 
-.Caro{
+.zero{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     margin: center;
     text-align: center;
@@ -60,7 +60,7 @@ html{
 }
 
 
-.Caro img {
+.zero {
     text-align: center;
     margin: 10px;
 }
