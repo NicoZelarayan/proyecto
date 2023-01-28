@@ -1,3 +1,4 @@
+@import url("https://fonts.googleapis.com/css2?family=Prompt:wght@500&display=swap");
 * {
   margin: 0;
   padding: 0;
@@ -24,16 +25,13 @@ html {
 .nav .links {
   display: inline-block;
 }
-
 .nav .links li {
   display: inline-block;
 }
-
-.nav .links li a {
+.nav .links a {
   text-decoration: none;
-  color: rgb(0, 0, 0);
-  text-transform: capitalize;
-  padding: 5px;
+  color: #020202;
+  text-transform: capitalize padding 5px;
 }
 
 .logo img {
